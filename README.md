@@ -8,7 +8,7 @@
 
 ## 🔗 Interactive Prototype & Demo
 
-* **Live Prototype / Figma:https://your-prototype-link-here.com](https://ai.studio/apps/6242382e-7898-4837-9df5-bccb8461d611?fullscreenApplet=true](https://ai.studio/apps/6242382e-7898-4837-9df5-bccb8461d611?fullscreenApplet=true
+* **Live Prototype / Figma: https://your-prototype-link-here.com](https://ai.studio/apps/6242382e-7898-4837-9df5-bccb8461d611?fullscreenApplet=true](https://ai.studio/apps/6242382e-7898-4837-9df5-bccb8461d611?fullscreenApplet=true
 
 
 ---
