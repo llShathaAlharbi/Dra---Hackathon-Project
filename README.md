@@ -8,8 +8,8 @@
 
 ## 🔗 Interactive Prototype & Demo
 
-* **Live Prototype / Figma:** [Insert Prototype Link Here](https://your-prototype-link-here.com)
-* **Demo Video:** [Insert Demo Video Link Here](https://your-video-link-here.com) *(Optional)*
+* **Live Prototype / Figma:[** [Insert Prototype Link Here](https://your-prototype-link-here.com](https://ai.studio/apps/6242382e-7898-4837-9df5-bccb8461d611?fullscreenApplet=true
+
 
 ---
 
