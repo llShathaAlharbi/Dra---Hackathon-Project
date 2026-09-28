@@ -1,11 +1,28 @@
-<div align="center">
+# Dra | دِرا 🚀
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+> **Hackathon Prototype** | Smart Family Financial Empowerment Platform
 
-  <h1>Built with AI Studio</h2>
+**Dra** (دِرا) is an AI-powered financial management platform designed to empower Saudi heads of households to take full control of their financial resources. It simplifies complex financial data into smart budgets, tailored retirement plans, and long-term family wealth strategies.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+---
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🔗 Interactive Prototype & Demo
 
-</div>
+* **Live Prototype / Figma:** [Insert Prototype Link Here](https://your-prototype-link-here.com)
+* **Demo Video:** [Insert Demo Video Link Here](https://your-video-link-here.com) *(Optional)*
+
+---
+
+## 🌟 Key Features
+
+* 🏦 **Smart Retirement System:** Advanced calculator that factors in salary, allowances, and inflation projections to generate custom retirement plans.
+* 👨‍👩‍👧 **Parental & Household Control:** Manage accounts for children and household staff with customizable spending limits and instant transaction approvals.
+* 💼 **Family Wallet Management:** Divide monthly budgets into dedicated sub-wallets (Bills, Savings, Travel, Shopping) for disciplined spending.
+* 🤖 **AI Financial Advisor:** Receive real-time investment tips and automated tracking for gold and real estate assets.
+* 👔 **Advisory Bridges:** Seamlessly connect with certified financial advisors while sharing automated, privacy-first family financial reports.
+
+---
+
+## 📌 Project Status
+
+This repository contains the prototype / MVP codebase developed during the **Hackathon**.
